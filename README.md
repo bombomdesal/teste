@@ -1,5 +1,9 @@
 
 [português](https://github.com/bombomdesal/teste/blob/main/portugues/ortografia.md)
+
+[redes neurais](https://github.com/bombomdesal/teste/blob/main/modelagem/redes_neurais.md)
+
+
 Aqui estão os passos para criar um repositório Git no Termux, adicionar pastas e arquivos Markdown, e conectá-lo a um repositório no GitHub:
 
 1. **Navegar para o diretório desejado no Termux:**
