@@ -1,3 +1,15 @@
+2. Bibliotecas Python:
+Pandas (manipulação;limpeza; transformação e pré-processamento de dado);
+NumPy (operações de arrays);
+Matplotlib e Seaborn (visualização de dados); 
+TensorFlow; Keras e PyTorch (redes neurais); 
+Scikit-learn e XGBoost (aprendizado de máquina); 
+NLTK e spaCy (processamento de linguagem natural); 
+huggingface (LLM); 
+PySpark (Big data); 
+Beautiful Soup (web scraping); 
+Streamlit (data apps)
+
 
 [português](https://github.com/bombomdesal/teste/blob/main/portugues/ortografia.md)
 
