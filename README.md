@@ -2,7 +2,7 @@
    
 [Pandas](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Pandas.md) (manipulação;limpeza; transformação e pré-processamento de dado);
 
-NumPy (operações de arrays);
+[NumPy](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Numpy.md) (operações de arrays);
 
 Matplotlib e Seaborn (visualização de dados); 
 
