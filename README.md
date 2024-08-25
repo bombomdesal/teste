@@ -4,7 +4,7 @@
 
 [NumPy](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Numpy.md) (operações de arrays);
 
-[Matplotlib](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Matplotlib.md) e Seaborn (visualização de dados); 
+[Matplotlib](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Matplotlib.md) e [Seaborn](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Seaborn.md) (visualização de dados); 
 
 TensorFlow; Keras e PyTorch (redes neurais); 
 
