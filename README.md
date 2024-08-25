@@ -1,6 +1,6 @@
 [2. Bibliotecas Python:](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Vis%C3%A3o%20geral.md)
    
-Pandas (manipulação;limpeza; transformação e pré-processamento de dado);
+[Pandas](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Pandas.md) (manipulação;limpeza; transformação e pré-processamento de dado);
 
 NumPy (operações de arrays);
 
