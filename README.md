@@ -6,7 +6,7 @@
 
 [Matplotlib](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Matplotlib.md) e [Seaborn](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Seaborn.md) (visualização de dados); 
 
-[TensorFlow](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/TensorFlow.md); Keras e PyTorch (redes neurais); 
+[TensorFlow](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/TensorFlow.md); [Keras e PyTorch](https://github.com/bombomdesal/teste/blob/main/Bibliotecas%20Python/Keras%20e%20PyTorch.md) (redes neurais); 
 
 Scikit-learn e XGBoost (aprendizado de máquina); 
 
