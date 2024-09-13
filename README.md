@@ -88,7 +88,31 @@ de posição (média, mediana, moda, quartis), de dispersão (variância, desvio
 
 Correlação e causalidade. Princípios básicos de inferência estatística: noções de amostragem (população, e amostra), erro amostral, 
 
-noções fundamentais de probabilidade (conceitos fundamentais, probabilidade condicional e independência), distribuições de
+noções fundamentais de probabilidade (conceitos fundamentais, probabilidade condicional e independência), distribuições de probabilidade comuns (uniforme, normal, binomial e exponencial), conceitos básicos de estatística indutiva; 4.6. Introdução à
+
+visualização de dados: Tipos de gráficos (barras, pizza, linha, dispersão, histograma), como interpretá-los e quando utilizá-los. Boas 
+
+práticas para a construção de gráficos (escala dos eixos, margens de erro, disposição de mais de uma série em um único gráfico, 
+
+ênfase em uma série ou em um ponto, barra ou fatia específicos). Princípios de storytelling com dados; 4.7. Uso responsável de 
+
+dados: Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018 e suas alterações). 5. Diversidade e Inclusão: 5.1 O 
+
+papel do Estado brasileiro no combate à pobreza; 5.2 O papel do BNDES na redução de desigualdades econômicas, sociais e 
+
+territoriais no Brasil; 5.3 Direitos Humanos, Objetivos de Desenvolvimento Sustentável – ODS 2030 e diversidade; 5.3 
+
+Interseccionalidade e suas interfaces com marcadores sociais de raça, cor e etnia, classe, idade, deficiência, localização geográfica, 
+
+sexualidade, expressão e identidade de gênero; discriminação e exclusão social e digital; 5.4 Índice de Diversidade B3 – IDIVERSA 
+
+B3: objetivo e metodologia; 5.5 Desafios sociopolíticos da inclusão de grupos vulnerabilizados: crianças e adolescentes; idosos; 
+
+LGBTQIA+; pessoas com deficiências; povos originários, comunidades quilombolas e demais minorias sociais; 5.6 Desafios territoriais: 
+
+a questão urbana e regional no Brasil – disparidades e segregação socioespacial.
+
+
 ANALISTA – CIÊNCIA DE DADOS
 I – MATEMÁTICA:
  1.
