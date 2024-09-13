@@ -2,7 +2,7 @@
 
 
 
-LÍNGUA PORTUGUESA[https://chatgpt.com/share/66e43518-5464-800e-a9d0-e1359bd73acf]
+[LÍNGUA PORTUGUESA](https://chatgpt.com/share/66e43518-5464-800e-a9d0-e1359bd73acf)
 
 LÍNGUA INGLESA
 
