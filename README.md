@@ -1,4 +1,94 @@
+23
 
+ANEXO II - CONTEÚDOS PROGRAMÁTICOS
+
+CONHECIMENTOS BÁSICOS 
+
+LÍNGUA PORTUGUESA: 1. Compreensão de texto. 2. Ortografia oficial. 3. Mecanismos de coesão textual. 4. Significação das 
+
+palavras. 5. Emprego das classes de palavras. 6. Coordenação e de subordinação. 7. Emprego dos sinais de pontuação. 8. 
+
+Concordância verbal e nominal. 9. Regência verbal e nominal. 
+
+LÍNGUA INGLESA: 1. Compreensão de texto em língua inglesa. 2. Itens gramaticais relevantes. 3. Vocabulário. 4. Mecanismos de 
+
+coesão textual (referenciação e sequenciação). 5. Semântica.
+
+CONHECIMENTOS TRANSVERSAIS: 1. Políticas Públicas e Desenvolvimento: 1.1 Planejamento governamental, finanças e 
+
+gestão pública; 1.2 Papel das instituições; 1.3 Noções sobre finanças públicas, ciclo orçamentário, controles interno e externo; 1.4 
+
+Noções básicas e estágios do ciclo político-administrativo da política pública; 1.4.1 Importância do monitoramento e da avaliação da 
+
+efetividade das políticas públicas; 1.4.2 Modelos de análise de políticas públicas; 1.5 Formas de atuação da política pública; 1.5.1 
+
+Programas sociais e de garantia da renda; 1.5.2 Incentivos tributários, subsídios e taxação; 1.6 Papel das compras públicas no 
+
+adensamento produtivo e tecnológico; 1.7 Políticas fiscal e monetária verdes. 2. Papel do BNDES no desenvolvimento brasileiro: 
+
+2.1 História política e econômica do Brasil e o papel do BNDES no desenvolvimento do país; 2.1.1 O papel histórico do BNDES nos 
+
+diferentes planos econômicos e a questão regional do País; 2.2 O BNDES e as políticas públicas atuais: Novo PAC, Nova Indústria 
+
+Brasil e Plano de Transformação Ecológica como elementos de neoindustrialização e descarbonização da economia; 2.3 O papel dos 
+
+bancos de fomento no desenvolvimento econômico e social; 2.3.1 Modelos de atuação direto e indireto; 2.4 Formas de atuação do
+
+BNDES; 2.4.1 Estruturação e financiamento de projetos de infraestrutura; 2.4.2 Financiamento à exportação; 2.4.3 Financiamento às 
+
+micro, pequenas e médias empresas; 2.4.4 Atuação via Mercado de Capitais; 2.4.5 Financiamento à indústria. 3. Clima, 
+
+Sustentabilidade e Responsabilidade Socioambiental e Climática: 3.1. Meio Ambiente e Sustentabilidade; 3.2 Política Nacional 
+
+de Meio Ambiente (PNMA - Lei nº 6938/1981 e suas alterações); 3.2.1 Licenciamento ambiental – Portal Nacional de Licenciamento 
+
+Ambiental (PNLA); 3.2.2 Sistema Nacional de Unidades de Conservação da Natureza (SNUC – Lei nº 9.985/2000 e suas alterações); 
+
+3.2.3 Lei sobre a Proteção da Vegetação Nativa (conhecida como Novo Código Florestal - Lei nº 12.651/2012 e suas alterações); 3.3 
+
+Clima e Sustentabilidade; 3.3.1 Mudanças climáticas; 3.3.2 Riscos físicos e de transição; 3.3.3 Mitigação e adaptação; 3.3.4 Transição 
+
+ecológica justa; 3.3.5 Política Nacional sobre Mudança do Clima (PNMC - Lei nº 12187/2009 e suas alterações); 3.3.5 Contribuição 
+
+Nacionalmente Determinada (NDC, em inglês) do Brasil (https://www.gov.br/mma/pt-br/assuntos/mudanca-do-clima/NDC). 3.3.6. 
+
+Perfil de emissões de gases do efeito estufa do Brasil; 3.4 Desenvolvimento e finanças sustentáveis; 3.4.1 Desenvolvimento 
+
+sustentável, responsabilidade socioambiental, consumo consciente e economia circular; 3.4.2. Bioeconomia. 3.4.3. Biodiversidade e
+
+Soluções Baseadas na Natureza 3.5 Objetivos de Desenvolvimento Sustentável – ODS: Agenda 2030. 3.6 Oportunidades e Riscos 
+
+sociais, ambientais e climáticos no Sistema Financeiro; 3.6.1 Política de Responsabilidade Social, Ambiental e Climática (PRSAC) 
+
+das instituições financeiras; 3.6.2 Resoluções CMN nº 4557/2017 e nº 4945/2021, suas alterações e normativos associados; 3.6.3 
+
+Divulgação de informações socioambientais e climáticas das instituições financeiras; 3.6.4 Finanças Sustentáveis e Aspectos 
+
+Ambientais, Sociais e de Governança (ASG) de investimentos. 4. Princípios de análise de dados e informações: 4.1. Os dados e 
+
+as organizações: Tipos de dados: estruturados e não estruturados; quantitativos e qualitativos. Tipos de produtos de dados (bases 
+
+de dados, relatórios, planilhas, análise exploratória de dados, dashboards, modelos de aprendizado de máquina) e seus usos 
+
+(explorar, alertar, descrever, explicar, prever, recomendar, otimizar). Princípios de organizações orientadas a dados. Governança de 
+
+dados e seus benefícios; 4.2. Etapas do ciclo de análise de dados (CRISP-DM). Fundamentos para criação de métricas de negócio 
+
+(KPIs). Técnicas de identificação de causa raiz (Diagrama de Ishikawa, Cinco Porquês, Análise de Pareto); 4.3. Estruturas lógicas e 
+
+noções básicas de lógica: conectivos, tautologia, contradições, contingência, implicações, equivalências, quantificadores, afirmações 
+
+e negações. Lógica de argumentação: analogias, inferências, deduções, conclusões e silogismos. Lógica proposicional: proposições 
+
+simples e compostas. Tabelas-verdade. Equivalências. Leis de De Morgan;4.4. Coleta e preparação dos dados. Problemas comuns 
+
+em dados: outliers, dados faltantes, erros no tipo dos dados e viés de seleção; 4.5. Análise de Dados: Estatística descritiva: medidas 
+
+de posição (média, mediana, moda, quartis), de dispersão (variância, desvio-padrão) e de associação (correlação de Pearson). 
+
+Correlação e causalidade. Princípios básicos de inferência estatística: noções de amostragem (população, e amostra), erro amostral, 
+
+noções fundamentais de probabilidade (conceitos fundamentais, probabilidade condicional e independência), distribuições de
 ANALISTA – CIÊNCIA DE DADOS
 I – MATEMÁTICA:
  1.
