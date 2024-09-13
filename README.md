@@ -1,4 +1,15 @@
-23
+
+
+
+
+LÍNGUA PORTUGUESA[https://chatgpt.com/share/66e43518-5464-800e-a9d0-e1359bd73acf]
+
+LÍNGUA INGLESA
+
+1. Políticas Públicas e Desenvolvimento
+
+
+
 
 ANEXO II - CONTEÚDOS PROGRAMÁTICOS
 
